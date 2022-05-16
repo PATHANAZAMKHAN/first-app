@@ -8,6 +8,7 @@ body {
 }
 
 nav {
+    width: 728px;
     display: flex;
     /* border: 3px solid black; */
     align-items: center;
